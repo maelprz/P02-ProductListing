@@ -20,4 +20,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/
+    - assets/wirelessheadphones.png
+    - assets/smartwatchx.png
+    - assets/expressomachine.png
